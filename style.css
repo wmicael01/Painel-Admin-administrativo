@@ -4,11 +4,6 @@
   box-sizing: border-box;
 }
 
-
-.container-formulario {
-
-}
-
 .container-formulario > div > button {
   width: 15vw;
 }
